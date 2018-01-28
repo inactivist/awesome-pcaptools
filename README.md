@@ -135,6 +135,8 @@ Traffic Analysis/Inspection<a name="analysis"></a>
 
 * [potiron](https://github.com/CIRCL/potiron): Normalizes, indexes, enriches and visualizes network captures.
 
+* [pypacker](https://github.com/mike01/pypacker): This is Pypacker: The fastest and simplest packet manipulation lib for Python. It lets you create packets manually by defining every aspect of all header data, dissect packets by parsing raw packet bytes, sending/receiving packets on different layers and intercepting packets.
+
 * [pyshark](http://kiminewt.github.io/pyshark/): A Python wrapper for tshark, allowing python packet parsing using wireshark dissectors. There are quite a few python packet parsing modules, this one is different because it doesn't actually parse any packets, it simply uses tshark's (wireshark command-line utility) ability to export XMLs to use its parsing.
 
 * [Sanitize](http://ita.ee.lbl.gov/html/contrib/sanitize.html): Sanitize is a collection of five Bourne shell scripts for reducing tcpdump traces in order to address security and privacy concerns, by renumbering hosts and stripping out packet contents. Each script takes as input a tcpdump trace file and generates to stdout a reduced, ASCII file in fixed-column format.
